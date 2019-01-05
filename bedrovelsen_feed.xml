@@ -1,0 +1,22 @@
+<repositories>
+	<repository>
+	      <name>Stream Army</name>
+      		<username>nemesis668</username>
+      		<description>yifi movies hd</description>
+	</repository>
+	<repository>
+	      <name>Maverick</name>
+      		<username>Maverick53</username>
+      		<description>Joker Sports, At the Flix, Skynet, Maverick TV</description>
+	</repository>
+	<repository>
+	      <name>TV ADDONS</name>
+      		<username>tvaddonsco</username>
+      		<description>Git Browser</description>
+	</repository>
+	<repository>
+	      <name>Nixgates</name>
+                  <username>nixgates</username>
+      		<description>Seren</description>
+	</repository>
+</repositories>
