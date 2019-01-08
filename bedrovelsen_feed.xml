@@ -1,5 +1,15 @@
 <repositories>
 	<repository>
+	      <name>Magic Dragon</name>
+      		<username>tombebbs</username>
+      		<description>The Magic Dragon</description>
+	</repository>
+	<repository>
+	      <name></name>
+      		<username>Bugatsinho</username>
+      		<description>RLSBB</description>
+	</repository>
+	<repository>
 	      <name>Stream Army</name>
       		<username>nemesis668</username>
       		<description>yifi movies hd</description>
@@ -12,7 +22,7 @@
 	<repository>
 	      <name>TV ADDONS</name>
       		<username>tvaddonsco</username>
-      		<description>Git Browser</description>
+      		<description>Git Browser, Real Debrid</description>
 	</repository>
 	<repository>
 	      <name>Nixgates</name>
